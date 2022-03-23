@@ -1,0 +1,6 @@
+version: "3"
+services:
+  texlive-babel-bosnian:
+    build: texlive-babel-bosnian/
+  texlive-babel-latvian:
+    build: texlive-babel-latvian/
